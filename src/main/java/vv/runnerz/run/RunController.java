@@ -53,5 +53,4 @@ public class RunController {
     void delete(@PathVariable Integer id) {
         runRepository.delete(id);
     }
-
 }
