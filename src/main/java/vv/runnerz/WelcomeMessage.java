@@ -1,4 +1,4 @@
-package vv.Spring;
+package vv.runnerz;
 
 import org.springframework.stereotype.Component;
 

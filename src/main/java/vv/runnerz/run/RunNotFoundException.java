@@ -1,4 +1,4 @@
-package vv.Spring.run;
+package vv.runnerz.run;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

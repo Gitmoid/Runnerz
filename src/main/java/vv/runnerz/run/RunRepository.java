@@ -1,4 +1,4 @@
-package vv.Spring.run;
+package vv.runnerz.run;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;
